@@ -8,9 +8,9 @@ Note :
 - The statements inside the modulus(%) are django app
 
 - Some example of commands,
-		C:\Users\JIGAR\Desktop\Python_Projects\Project_0\src>python manage.py runserver
-		C:\Users\JIGAR\Desktop\Python_Projects\Project_0\src>python manage.py migrate
-		C:\Users\JIGAR\Desktop\Python_Projects\Project_0\src>python manage.py makemigrations
+- C:\Users\JIGAR\Desktop\Python_Projects\Project_0\src>python manage.py runserver
+- C:\Users\JIGAR\Desktop\Python_Projects\Project_0\src>python manage.py migrate
+- C:\Users\JIGAR\Desktop\Python_Projects\Project_0\src>python manage.py makemigrations
 		
 
 some library + framework of django used -> paginator,taggit,summernote,boostrap4
