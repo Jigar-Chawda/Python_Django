@@ -1,7 +1,6 @@
 # Restaurant website using Django Framework
 
 Note :
-- Programming language used -> Python, Django framework, html, css, javascript
 - The statements inside the single asterisk(*) marks are the commands for exicuting specific tasks as mentioned
 - The statements inside the Plus(+) are Folders
 - The statements inside the modulus(%) are django app
